@@ -14,5 +14,4 @@ The contents of this repository were firstly reported at https://doi.org/10.1314
 
 - `KuramotoPF.m` : Particle filter implementation for a network of Kuramoto oscillators (MATLAB).
 - `Rossler PF.m` : Particle filter implementation for a network of Rossler systems (MATLAB).
-- `odeRK.m` : Implements the numerical integration algorithm Runge Kutta 4th order (MATLAB).
 - `KuramotoPF.ipynb` : Particle filter implementation for a network of Kuramoto oscillators	(Julia language, in a Jupyter Notebook).
