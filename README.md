@@ -3,7 +3,7 @@ Particle filter implementation for a network of coupled Kuramoto oscillators (in
 language) and a network of coupled Rossler systems (in MATLAB programming
 language), as described in 
 
-- Arthur N. Montanari and Luis A. Aguirre. (**2019**). Particle filtering of dynamical networks: Highlighting observability issues. *Chaos*, 29, 033118. https://doi.org/10.1063/1.5085321
+- Arthur N. Montanari, Luis A. Aguirre (**2019**). Particle filtering of dynamical networks: Highlighting observability issues. *Chaos*, 29, 033118. https://doi.org/10.1063/1.5085321
 
 Please, refer to this paper for further details. The codes syntax were adjusted to be better aligned with the paper notation.
 This is not the most computationally efficient implementation of the particle
