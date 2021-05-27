@@ -1,4 +1,4 @@
-# ParticleFilter-DynamicalNetworks
+# Particle filter of a network of coupled oscillators
 Particle filter implementation for a network of coupled Kuramoto oscillators (in MATLAB and Julia programming
 language) and a network of coupled Rossler systems (in MATLAB programming
 language), as described in 
