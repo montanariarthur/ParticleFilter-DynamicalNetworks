@@ -8,6 +8,7 @@ language), as described in
 Please, refer to this paper for further details. The codes syntax were adjusted to be better aligned with the paper notation.
 This is not the most computationally efficient implementation of the particle
 filter, however it is, in our opinion, the most readable one.
+The contents of this repository were firstly reported at https://doi.org/10.13140/RG.2.2.13879.37288.
 
 # Usage
 
